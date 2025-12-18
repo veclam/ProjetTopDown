@@ -1,7 +1,0 @@
-Breadcrumbs 'Parallel'
- - MeshCardCapture Pages:35 Draws:38 Instances:38 Tris:40674
- - LumenSceneUpdate: 35 card captures 0.029M texels
- - Scene
- - RenderGraphExecute - /ViewFamilies
- - SceneRender - ViewFamilies
- - Frame 45682
